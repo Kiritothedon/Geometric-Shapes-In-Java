@@ -1,7 +1,7 @@
-// Lab14avst.java
-// Lab14a
-// Student starting version
-
+/* Lab14avst.java
+ Student starting version
+ Author: De'Mondre Z
+*/
 
 import java.awt.*;
 import java.applet.*;
